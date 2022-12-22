@@ -38,9 +38,6 @@ Frequently asked questions and answers
 Q: How to download and install?
 A: Open the app store search to download and install
 
-Q: How to register an account?
-A: After opening the app, click Register to register
-
 Q: How to return app information?
 A: Can send mail to tikunga01@gmail.com. Contact us for
 
