@@ -8,7 +8,7 @@ Thank you again!
 
 Earn-Now technical support AppInfo
 
-![Uploading WeChat2c00ab07e249cadfde163d30f920c2ee.png…]()
+<img width="762" alt="WeChat2c00ab07e249cadfde163d30f920c2ee" src="https://user-images.githubusercontent.com/36095568/209086310-0004c038-1d29-42e3-807f-a688fd96ff6f.png">
 
 Contact Us
 App E-mail address: tikunga01@gmail.com
